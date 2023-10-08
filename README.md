@@ -1,4 +1,5 @@
 # ALES
+   Adaptive learning, estimation and supervision of dynamical systems
 ##  RLS (Recursive Least Squares) vs LS (Least Squares)
    LS updates the estimate using a batch approch instead RLS uses a recursive update
 
