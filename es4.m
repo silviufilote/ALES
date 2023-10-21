@@ -13,7 +13,6 @@ theta_0 = [0.2, -0.5, 1, 0.5, 0.75]';
 theta_LS = ones(3,n);
 theta_IV = ones(3,n);
 
-
 for x = 1:n
     noise_1 = randn(1, T);
     noise_2 = randn(1, T);
