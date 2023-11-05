@@ -6,3 +6,4 @@
    - es4) ARX model from ARMAX generated data
    - es5) Close loop non parametric identification
    - es6) Direct identification method closed loop
+   - es7) Indirect methods: projection/IV approach
