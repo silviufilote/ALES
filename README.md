@@ -7,3 +7,5 @@
    - es5) Close loop non parametric identification
    - es6) Direct identification method closed loop
    - es7) Indirect methods: projection/IV approach
+   - es8) SISO Kung’s algorithm (data_siso_kung.data required)
+   - es9) MIMO Kung’s algorithm (data_mimo_kung.data required)
